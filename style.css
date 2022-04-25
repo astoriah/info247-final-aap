@@ -1,3 +1,65 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Pontano+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@200;300;400;500;600;700;800&display=swap');
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 300;
+    color: #414e5c;
+}
 p {
-    color: red;
+    font-family: 'Pontano Sans', sans-serif;
+    color: #494F55;
+    font-size: 20px;
+}
+
+.padding100 {
+    padding-bottom: 170px;
+}
+
+.customNavText {
+    font-family: 'Dosis', sans-serif;
+    font-size: 14px;
+    color: #494F55;
+}
+
+.customSectionTitle {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 500;
+    color: #414e5c;
+    font-size: 25px;
+    padding-bottom: 75px;
+}
+
+.sectionWhite {
+    background-color: white;
+    width: 100%;
+    height: 800px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.blueBackground {
+    background-color: #E2E8EE;
+    border-radius: 30px;
+    padding: 30px;
+}
+
+
+#introduction {
+    background-color: #E2E8EE;
+    width: 100%;
+    height: 550px;
+}
+#projectTitle {
+    padding-top: 150px;
+    color: #2D5781;
+    font-size: 35px;
+}
+#projectSubTitle {
+    font-family: 'Pontano Sans', sans-serif;    
+    font-size: 20px;
+    color: #494F55;
+    padding-top: 250px;
+
 }
