@@ -22,6 +22,16 @@ p {
 .padding100 {
     padding-bottom: 125px;
 }
+.padding200 {
+    padding-bottom: 225px;
+}
+.img100{
+    width: 100%;
+    height: auto;
+}
+.drop-shadow {
+    filter: drop-shadow(0.35rem 0.35rem 0.4rem rgba(143, 167, 189, 0.7));
+}
 
 .textWhite {
     color: white;
@@ -75,6 +85,36 @@ p {
     padding: 30px;
 }
 
+.pollutantTitle{
+    text-align: center;
+    font-family: 'Dosis', sans-serif;
+    font-weight: 600;
+    font-size: 23px;
+    text-decoration: underline;
+    padding-bottom: 10px;
+}
+
+.purple {
+    color: #644195;
+}
+.orange {
+    color: #EF8532;
+}
+.red {
+    color: #D0352B;
+}
+.green {
+    color: #549D3F;
+}
+.blue {
+    color: #3B77AF;
+}
+.grey {
+    color: #818181;
+}
+
+
+
 #introduction {
     background-color: #E2E8EE;
     width: 100%;
@@ -85,10 +125,35 @@ p {
     color: #2D5781;
     font-size: 35px;
 }
-#projectSubTitle {
+/* #projectSubTitle {
     font-family: 'Pontano Sans', sans-serif;    
-    font-size: 20px;
+    font-size: 18px;
     color: #494F55;
-    padding-top: 250px;
+} */
 
+#scrollArrow{
+    width: 40px;
+    height: auto;
+    animation: bounceIconDown 2.5s ease-in infinite alternate;
+    animation: bounceIcon 2s ease-out infinite alternate;
 }
+
+@keyframes bounceIcon {
+    0% {
+        transform: translateY(-25px);
+    }
+    100% {
+        transform: translateY(0px);
+    };
+}
+@keyframes bounceIconDown {
+    0% {
+        transform: translateY(0px);
+    }
+    100% {
+        transform: translateY(-25px);
+    };
+}
+
+
+
