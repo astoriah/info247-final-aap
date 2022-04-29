@@ -1,0 +1,190 @@
+Country,PM2_5,Attr_Mort,Total_Mort,Percent_Attr,Original Region,Region
+Antigua and Barbuda,16.2,29,1000,2.9,Caribbean,Caribbean
+Barbados,19.6,172,3000,5.733333333,Caribbean,Caribbean
+Belize,19.3,100,2000,5,Caribbean,Caribbean
+Cuba,17.5,6639,104000,6.383653846,Caribbean,Caribbean
+Dominican Republic,16.8,3951,66000,5.986363636,Caribbean,Caribbean
+Grenada,19.4,54,1000,5.4,Caribbean,Caribbean
+Guyana,20.5,472,6000,7.866666667,Caribbean,Caribbean
+Haiti,17.8,4860,95000,5.115789474,Caribbean,Caribbean
+Jamaica,15.2,967,22000,4.395454545,Caribbean,Caribbean
+Puerto Rico,7,415,29000,1.431034483,Caribbean,Caribbean
+Saint Lucia,19.4,81,1000,8.1,Caribbean,Caribbean
+Saint Vincent and the Grenadines,19.4,65,1000,6.5,Caribbean,Caribbean
+Suriname,21.9,302,4000,7.55,Caribbean,Caribbean
+The Bahamas,13.9,86,3000,2.866666667,Caribbean,Caribbean
+Trinidad and Tobago,19.5,870,12000,7.25,Caribbean,Caribbean
+Virgin Islands US,8.8,28,1000,2.8,Caribbean,Caribbean
+Angola,27,8764,255000,3.436862745,Central_Sub_Saharan_Africa,Central Africa
+Central African Republic,41.3,4423,57000,7.759649123,Central_Sub_Saharan_Africa,Central Africa
+Republic of the Congo,35.2,2589,36000,7.191666667,Central_Sub_Saharan_Africa,Central Africa
+Democratic Republic of the Congo,33,36180,809000,4.472187886,Central_Sub_Saharan_Africa,Central Africa
+Equatorial Guinea,41.3,439,12000,3.658333333,Central_Sub_Saharan_Africa,Central Africa
+Gabon,33.3,927,15000,6.18,Central_Sub_Saharan_Africa,Central Africa
+Costa Rica,17.3,974,26000,3.746153846,Central_Latin_America,Central America
+El Salvador,22.6,2502,46000,5.439130435,Central_Latin_America,Central America
+Guatemala,27.3,7029,83000,8.468674699,Central_Latin_America,Central America
+Honduras,22.3,3250,43000,7.558139535,Central_Latin_America,Central America
+Mexico,20.1,43465,775000,5.608387097,Central_Latin_America,Central America
+Nicaragua,19.1,1616,33000,4.896969697,Central_Latin_America,Central America
+Panama,13.7,694,22000,3.154545455,Central_Latin_America,Central America
+Armenia,31.9,3644,29000,12.56551724,Central_Asia,Central Asia
+Azerbaijan,23.9,8630,68000,12.69117647,Central_Asia,Central Asia
+Georgia,17.8,3543,51000,6.947058824,Central_Asia,Central Asia
+Kazakhstan,19,10602,131000,8.093129771,Central_Asia,Central Asia
+Kyrgyzstan,22.9,3228,38000,8.494736842,Central_Asia,Central Asia
+Mongolia,36.7,2885,20000,14.425,Central_Asia,Central Asia
+Tajikistan,35.9,7288,44000,16.56363636,Central_Asia,Central Asia
+Turkmenistan,25.5,3728,42000,8.876190476,Central_Asia,Central Asia
+Uzbekistan,32.5,31945,190000,16.81315789,Central_Asia,Central Asia
+Albania,19.8,1774,23000,7.713043478,Central_Europe,Central Europe
+Bosnia and Herzegovina,29.8,4710,36000,13.08333333,Central_Europe,Central Europe
+Bulgaria,19.7,9724,108000,9.003703704,Central_Europe,Central Europe
+Croatia,18,3134,55000,5.698181818,Central_Europe,Central Europe
+Czech Republic,16.8,6572,113000,5.815929204,Central_Europe,Central Europe
+Hungary,16.5,7529,122000,6.171311475,Central_Europe,Central Europe
+Macedonia,31.6,3380,21000,16.0952381,Central_Europe,Central Europe
+Montenegro,21.6,652,7000,9.314285714,Central_Europe,Central Europe
+Poland,22.7,31196,388000,8.040206186,Central_Europe,Central Europe
+Romania,15.9,14974,255000,5.872156863,Central_Europe,Central Europe
+Republic of Serbia,26.5,12615,116000,10.875,Central_Europe,Central Europe
+Slovakia,18.4,3586,54000,6.640740741,Central_Europe,Central Europe
+Slovenia,16.9,857,21000,4.080952381,Central_Europe,Central Europe
+Cyprus,15.2,392,9000,4.355555556,Central_Europe,Central Europe
+Burundi,31.5,4539,90000,5.043333333,Eastern_Sub_Saharan_Africa,East Africa
+Comoros,16.1,205,6000,3.416666667,Eastern_Sub_Saharan_Africa,East Africa
+Djibouti,41.1,592,7000,8.457142857,Eastern_Sub_Saharan_Africa,East Africa
+Eritrea,41.6,3668,25000,14.672,Eastern_Sub_Saharan_Africa,East Africa
+Ethiopia,32.6,33633,721000,4.664771151,Eastern_Sub_Saharan_Africa,East Africa
+Kenya,24.4,12872,284000,4.532394366,Eastern_Sub_Saharan_Africa,East Africa
+Madagascar,17.5,6616,160000,4.135,Eastern_Sub_Saharan_Africa,East Africa
+Malawi,23.1,4842,120000,4.035,Eastern_Sub_Saharan_Africa,East Africa
+Mozambique,21.4,8492,250000,3.3968,Eastern_Sub_Saharan_Africa,East Africa
+Rwanda,33.8,4827,65000,7.426153846,Eastern_Sub_Saharan_Africa,East Africa
+Somalia,28.8,9549,165000,5.787272727,Eastern_Sub_Saharan_Africa,East Africa
+South Sudan,36.4,4609,116000,3.973275862,Eastern_Sub_Saharan_Africa,East Africa
+United Republic of Tanzania,24.6,18021,364000,4.950824176,Eastern_Sub_Saharan_Africa,East Africa
+Uganda,36.7,13648,282000,4.839716312,Eastern_Sub_Saharan_Africa,East Africa
+Zambia,24.9,5427,114000,4.760526316,Eastern_Sub_Saharan_Africa,East Africa
+China,49.8,1992762,10441000,19.08593047,East_Asia,East Asia
+North Korea,41.8,43106,236000,18.26525424,East_Asia,East Asia
+Taiwan,23.9,13916,183000,7.604371585,East_Asia,East Asia
+Japan,13.5,42858,1361000,3.149008082,High_income_Asia_Pacific,East Asia
+South Korea,26.6,23414,316000,7.409493671,High_income_Asia_Pacific,East Asia
+Belarus,16.3,8560,118000,7.254237288,Eastern_Europe,Eastern Europe
+Estonia,5.7,98,16000,0.6125,Eastern_Europe,Eastern Europe
+Latvia,11.7,1023,28000,3.653571429,Eastern_Europe,Eastern Europe
+Lithuania,10.2,1168,38000,3.073684211,Eastern_Europe,Eastern Europe
+Moldova,13.1,2024,47000,4.306382979,Eastern_Europe,Eastern Europe
+Russia,10.9,64298,1858000,3.460602799,Eastern_Europe,Eastern Europe
+Ukraine,14,40682,667000,6.099250375,Eastern_Europe,Eastern Europe
+Bahrain,60.8,776,4000,19.4,Middle_East,Middle East
+Iran,38.3,48441,401000,12.08004988,Middle_East,Middle East
+Iraq,48.6,27431,186000,14.74784946,Middle_East,Middle East
+Jordan,32.1,3077,39000,7.88974359,Middle_East,Middle East
+Kuwait,63.1,1754,12000,14.61666667,Middle_East,Middle East
+Lebanon,28.5,3693,30000,12.31,Middle_East,Middle East
+Palestine,32.6,1992,17000,11.71764706,Middle_East,Middle East
+Qatar,71.6,625,4000,15.625,Middle_East,Middle East
+Saudi Arabia,61.5,20827,120000,17.35583333,Middle_East,Middle East
+Syria,31.1,11249,92000,12.22717391,Middle_East,Middle East
+Turkey,26.1,47245,451000,10.47560976,Middle_East,Middle East
+United Arab Emirates,42.7,3331,15000,22.20666667,Middle_East,Middle East
+Yemen,44.1,17827,175000,10.18685714,Middle_East,Middle East
+Israel,19.7,2436,45000,5.413333333,Middle_East,Middle East
+Afghanistan,50.8,29383,239000,12.29414226,North_Africa_and_Middle_East,Middle East
+Algeria,31.6,22018,203000,10.84630542,North_Africa,North Africa
+Egypt,65.8,110679,580000,19.08258621,North_Africa,North Africa
+Libya,36.2,3535,35000,10.1,North_Africa,North Africa
+Morocco,34,30306,184000,16.47065217,North_Africa,North Africa
+Oman,42.6,1951,12000,16.25833333,North_Africa,North Africa
+Sudan,50,25334,305000,8.306229508,North_Africa,North Africa
+Tunisia,29.3,7808,73000,10.69589041,North_Africa,North Africa
+Canada,7.3,3632,291000,1.248109966,High_income_North_America,North America
+USA,7.8,46035,2909000,1.582502578,High_income_North_America,North America
+Fiji,9.8,311,7000,4.442857143,Melanesia,Oceania
+Papua New Guinea,13.3,2977,65000,4.58,Melanesia,Oceania
+Solomon Islands,10.7,260,3000,8.666666667,Melanesia,Oceania
+Vanuatu,11.1,90,2000,4.5,Melanesia,Oceania
+Guam,7.6,22,1000,2.2,Micronesia,Oceania
+Kiribati,7.6,23,1000,2.3,Micronesia,Oceania
+Australia,7,1757,167000,1.052095808,Oceania,Oceania
+New Zealand,6.6,333,34000,0.9794117647,Oceania,Oceania
+Samoa,9.6,46,1000,4.6,Oceania,Oceania
+American Samoa,6.1,5,1000,0.5,Polynesia,Oceania
+Tonga,9.6,21,1000,2.1,Polynesia,Oceania
+Bolivia,26,5522,78000,7.079487179,Andean_Latin_America,South America
+Ecuador,18.8,4518,89000,5.076404494,Andean_Latin_America,South America
+Peru,29.6,11927,181000,6.589502762,Andean_Latin_America,South America
+Colombia,21.3,14390,281000,5.120996441,Southern_Latin_America,South America
+Venezuela,20.3,11322,209000,5.41722488,Southern_Latin_America,South America
+Argentina,13,13619,340000,4.005588235,Southern_Latin_America,South America
+Chile,21.9,6199,117000,5.298290598,Southern_Latin_America,South America
+Uruguay,9.8,763,33000,2.312121212,Southern_Latin_America,South America
+Brazil,11.8,44559,1377000,3.235947712,Tropical_Latin_America,South America
+Paraguay,12.5,1192,39000,3.056410256,Tropical_Latin_America,South America
+Bangladesh,61.9,158987,901000,17.64561598,South_Asia,South Asia
+Bhutan,38.8,524,5000,10.48,South_Asia,South Asia
+India,80.2,1752666,9926000,17.6573242,South_Asia,South Asia
+Nepal,79.3,39195,182000,21.53571429,South_Asia,South Asia
+Pakistan,59.7,195510,1493000,13.09511052,South_Asia,South Asia
+Maldives,9.9,37,1000,3.7,Southeast_Asia,South Asia
+Mauritius,14.7,595,11000,5.409090909,Southeast_Asia,South Asia
+Seychelles,15.4,37,1000,3.7,Southeast_Asia,South Asia
+Sri Lanka,19.6,9675,144000,6.71875,Southeast_Asia,South Asia
+Brunei,7.6,33,2000,1.65,High_income_Asia_Pacific,Southeast Asia
+Singapore,18.5,1469,27000,5.440740741,High_income_Asia_Pacific,Southeast Asia
+Cambodia,21.2,7983,99000,8.063636364,Southeast_Asia,Southeast Asia
+Indonesia,18,119054,1761000,6.760590574,Southeast_Asia,Southeast Asia
+Laos,18.5,2831,46000,6.154347826,Southeast_Asia,Southeast Asia
+Malaysia,16.2,10569,165000,6.405454545,Southeast_Asia,Southeast Asia
+Myanmar,28.5,46930,445000,10.54606742,Southeast_Asia,Southeast Asia
+Philippines,18.4,43218,640000,6.7528125,Southeast_Asia,Southeast Asia
+Thailand,26.4,38193,542000,7.046678967,Southeast_Asia,Southeast Asia
+East Timor,15.3,386,8000,4.825,Southeast_Asia,Southeast Asia
+Vietnam,20,46955,615000,7.63495935,Southeast_Asia,Southeast Asia
+Botswana,24.3,1213,13000,9.330769231,Southern_Sub_Saharan_Africa,Southern Africa
+Lesotho,29.4,1800,30000,6,Southern_Sub_Saharan_Africa,Southern Africa
+Namibia,24.4,1128,20000,5.64,Southern_Sub_Saharan_Africa,Southern Africa
+South Africa,28.8,34898,550000,6.345090909,Southern_Sub_Saharan_Africa,Southern Africa
+Swaziland,23.1,561,10000,5.61,Southern_Sub_Saharan_Africa,Southern Africa
+Zimbabwe,21.7,5900,114000,5.175438596,Southern_Sub_Saharan_Africa,Southern Africa
+Benin,42.6,7039,103000,6.833980583,Western_Sub_Saharan_Africa,West Africa
+Burkina Faso,50.4,16949,161000,10.52732919,Western_Sub_Saharan_Africa,West Africa
+Cameroon,58.9,19088,235000,8.122553191,Western_Sub_Saharan_Africa,West Africa
+Cape Verde,46.4,393,3000,13.1,Western_Sub_Saharan_Africa,West Africa
+Chad,55.3,13333,190000,7.017368421,Western_Sub_Saharan_Africa,West Africa
+Ivory Coast,52.1,16003,254000,6.300393701,Western_Sub_Saharan_Africa,West Africa
+Ghana,54,22565,220000,10.25681818,Western_Sub_Saharan_Africa,West Africa
+Guinea,50.4,11118,105000,10.58857143,Western_Sub_Saharan_Africa,West Africa
+Guinea Bissau,54.6,1400,13000,10.76923077,Western_Sub_Saharan_Africa,West Africa
+Liberia,46.5,2170,37000,5.864864865,Western_Sub_Saharan_Africa,West Africa
+Mali,56.5,14124,186000,7.593548387,Western_Sub_Saharan_Africa,West Africa
+Mauritania,64.3,2501,32000,7.815625,Western_Sub_Saharan_Africa,West Africa
+Niger,70.9,19482,188000,10.36276596,Western_Sub_Saharan_Africa,West Africa
+Nigeria,64.2,152639,2342000,6.517463706,Western_Sub_Saharan_Africa,West Africa
+Sao Tome and Principe,29.5,98,1000,9.8,Western_Sub_Saharan_Africa,West Africa
+Senegal,60.5,9924,91000,10.90549451,Western_Sub_Saharan_Africa,West Africa
+Sierra Leone,48.2,6034,90000,6.704444444,Western_Sub_Saharan_Africa,West Africa
+Gambia,58.6,1538,18000,8.544444444,Western_Sub_Saharan_Africa,West Africa
+Togo,44.4,4440,67000,6.626865672,Western_Sub_Saharan_Africa,West Africa
+Austria,12.1,2368,88000,2.690909091,Western_Europe,Western Europe
+Belgium,12.8,3717,113000,3.289380531,Western_Europe,Western Europe
+Denmark,10.2,1403,57000,2.461403509,Western_Europe,Western Europe
+Finland,5.2,254,54000,0.4703703704,Western_Europe,Western Europe
+France,11.6,13733,609000,2.25500821,Western_Europe,Western Europe
+Germany,11.9,27266,944000,2.888347458,Western_Europe,Western Europe
+Greece,14.6,5806,115000,5.048695652,Western_Europe,Western Europe
+Iceland,5.6,13,2000,0.65,Western_Europe,Western Europe
+Ireland,7.7,499,30000,1.663333333,Western_Europe,Western Europe
+Italy,15.6,25517,642000,3.974610592,Western_Europe,Western Europe
+Luxembourg,9.9,85,4000,2.125,Western_Europe,Western Europe
+Malta,12.4,138,4000,3.45,Western_Europe,Western Europe
+Netherlands,12.4,4847,151000,3.209933775,Western_Europe,Western Europe
+Norway,6.5,385,43000,0.8953488372,Western_Europe,Western Europe
+Portugal,8.6,2202,110000,2.001818182,Western_Europe,Western Europe
+Spain,9.9,9163,428000,2.14088785,Western_Europe,Western Europe
+Sweden,5.7,583,91000,0.6406593407,Western_Europe,Western Europe
+Switzerland,10.2,1404,69000,2.034782609,Western_Europe,Western Europe
+United Kingdom,10.5,16453,634000,2.59511041,Western_Europe,Western Europe
+
