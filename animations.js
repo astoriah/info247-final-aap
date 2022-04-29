@@ -9,5 +9,4 @@ function bounceIconEnd() {
         .attr("y", -100)
         .duration(1000)
         .on("end", bounceIcon);
-
 }
