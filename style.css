@@ -5,9 +5,14 @@
 h1 {
     font-family: 'Dosis', sans-serif;
     font-weight: 300;
-    color: #414e5c;
+    color: #2D5781;
 }
 p {
+    font-family: 'Pontano Sans', sans-serif;
+    color: #494F55;
+    font-size: 20px;
+}
+ul {
     font-family: 'Pontano Sans', sans-serif;
     color: #494F55;
     font-size: 20px;
@@ -15,6 +20,9 @@ p {
 
 .padding25{
     padding-bottom: 25px;
+}
+.padding50 {
+    padding-bottom: 50px;
 }
 .padding75 {
     padding-bottom: 75px;
@@ -35,7 +43,12 @@ p {
     margin-left: 10%;
     margin-right: 10%;
 }
-
+.img60{
+    width: 60%;
+    height: auto;
+    margin-left: 20%;
+    margin-right: 20%;
+}
 .img50{
     width: 50%;
     height: auto;
@@ -66,7 +79,13 @@ p {
 .customSectionTitle {
     font-family: 'Dosis', sans-serif;
     font-weight: 500;
-    color: #414e5c;
+    color: #2D5781;
+    font-size: 25px;
+}
+.customSectionTitleGrey {
+    font-family: 'Dosis', sans-serif;
+    font-weight: 400;
+    color: #494F55;
     font-size: 25px;
     padding-bottom: 75px;
 }
@@ -107,30 +126,72 @@ p {
 
 .pollutantTitle{
     text-align: center;
-    font-family: 'Dosis', sans-serif;
-    font-weight: 600;
+    font-family: 'Pontano Sans', sans-serif;
+    /* font-weight: 600; */
     font-size: 23px;
-    text-decoration: underline;
-    padding-bottom: 10px;
+    /* text-decoration: underline; */
 }
 
 .purple {
     color: #644195;
+    background-color: #E3D9E9;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
+
 }
 .orange {
     color: #EF8532;
+    background-color: #F9DFBD;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 .red {
     color: #D0352B;
+    background-color: #F6CFCD;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 .green {
     color: #549D3F;
+    background-color: #DDEEC9;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 .blue {
     color: #3B77AF;
+    background-color: #D7E6F0;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 .grey {
     color: #818181;
+    background-color: #C0C0C0;
+    border-radius: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 
 #introduction {
