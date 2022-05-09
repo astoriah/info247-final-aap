@@ -93,8 +93,14 @@ ul {
 .customList {
     font-family: 'Pontano Sans', sans-serif;
     color: #494F55;
-    font-size: 20px;
+    font-size: 18px;
 }
+
+.smallDescription {
+    font-family: 'Pontano Sans', sans-serif;
+    color: #494F55;
+    font-size: 16px;
+} 
 
 .sectionWhite {
     background-color: white;
@@ -123,6 +129,16 @@ ul {
     border-radius: 30px;
     padding: 30px;
 }
+.greyBackground {
+    background-color: #EFF1F3;
+    border-radius: 30px;
+    padding: 20px;
+}
+.whiteBackground {
+    background-color: #ffffff;
+    border-radius: 30px;
+    padding: 30px;
+}
 
 .pollutantTitle{
     text-align: center;
@@ -130,85 +146,68 @@ ul {
     /* font-weight: 600; */
     font-size: 23px;
     /* text-decoration: underline; */
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 
 .purple {
     color: #644195;
     background-color: #E3D9E9;
     border-radius: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-    margin-left: 7%;
-    margin-right: 7%;
 
 }
 .orange {
     color: #EF8532;
     background-color: #F9DFBD;
     border-radius: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-    margin-left: 7%;
-    margin-right: 7%;
 }
 .red {
     color: #D0352B;
     background-color: #F6CFCD;
     border-radius: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-    margin-left: 7%;
-    margin-right: 7%;
+    padding: 10px;
+
 }
 .green {
     color: #549D3F;
     background-color: #DDEEC9;
     border-radius: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-    margin-left: 7%;
-    margin-right: 7%;
 }
 .blue {
     color: #3B77AF;
     background-color: #D7E6F0;
     border-radius: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-    margin-left: 7%;
-    margin-right: 7%;
+    padding: 10px;
 }
 .grey {
     color: #818181;
     background-color: #C0C0C0;
     border-radius: 15px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    margin-bottom: 10px;
-    margin-left: 7%;
-    margin-right: 7%;
 }
 
+.diseaseDescription {
+    font-size: 16px;
+}
+
+
+
 #introduction {
-    background-color: #E2E8EE;
     width: 100%;
-    height: 600px;
+    height: 640px;
 }
 #projectTitle {
     padding-top: 200px;
     color: #2D5781;
     font-size: 35px;
 }
-/* #projectSubTitle {
+#projectSubTitle {
     font-family: 'Pontano Sans', sans-serif;    
-    font-size: 18px;
+    font-size: 20px;
     color: #494F55;
-} */
+    padding-bottom: 15px;
+}
 
 #scrollArrow{
     width: 40px;
