@@ -44,9 +44,9 @@ $sway-type: "sway-left-to-right", "sway-right-to-left";
       --bubble-left-offset: #{random_range(0vw, 100vw)};
       --bubble-radius: #{random_range(.1vw, 2vw)};
       --bubble-float-duration: #{random_range(10s, 20s)};
-      --bubble-sway-duration: #{random_range(10s, 20s)};
-      --bubble-float-delay: #{random_range(.1s, 5s)};
-      --bubble-sway-delay: #{random_range(10s, 7s)};
+      --bubble-sway-duration: #{random_range(1s, 20s)};
+      --bubble-float-delay: #{random_range(0s, 5s)};
+      --bubble-sway-delay: #{random_range(0s, 7s)};
       --bubble-sway-type: #{sample($sway-type)};
     }
   }
