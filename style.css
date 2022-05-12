@@ -18,6 +18,10 @@ ul {
     font-size: 16px;
 }
 
+a {
+    text-align: right;
+}
+
 .padding25{
     padding-bottom: 25px;
 }
