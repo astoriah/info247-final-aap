@@ -11,5 +11,7 @@ Website tools
 - HTML/CSS/JS
 - Bootstrap
 - [Bubble Animation Source Code](https://codepen.io/alphardex/pen/jOWMGON)
-- iFrame Poll (Opinion Stage)
-- iFrame Visualizations (Observable)
+- iFrame Poll from Opinion Stage
+- iFrame Visualizations from Observable
+- Icons from Noun Project
+- Images from Unsplash
