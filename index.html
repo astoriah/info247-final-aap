@@ -305,8 +305,8 @@
                         Click on an individual point on the plot or country on the map to see its PM2.5 concentration and attributable mortality. Click again to unselect.
                     </p>
                     <!--  <iframe width="100%" height="575" frameborder="0" src="https://observablehq.com/embed/21d815b09912c894?cells=allCharts"></iframe> -->
-                    <div id="observablehq-allCharts-cc5d1ee1"></div>
-                    <p "font-size:9.5px; color: #D3D3D3">Credit: Brushed Scatterplot and Map by Clara Hu</p>
+                    <div id="observablehq-allCharts-f60df8d5"></div>
+                    <p style = "font-size:9.5px; color: #D3D3D3">Credit: Brushed Scatterplot and Map by Clara Hu</p>
                 </div>
             </div>
 
@@ -630,9 +630,10 @@
         <!-- scatter + map -->
         <script type="module">
         import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
-        import define from "https://api.observablehq.com/d/21d815b09912c894.js?v=3";
+        import define from "https://api.observablehq.com/d/21c06516855f4943@407.js?v=3";
         new Runtime().module(define, name => {
-            if (name === "allCharts") return new Inspector(document.querySelector("#observablehq-allCharts-cc5d1ee1"));
+            if (name === "allCharts") return new Inspector(document.querySelector("#observablehq-allCharts-f60df8d5"));
+            return ["call"].includes(name);
         });
         </script>
 
