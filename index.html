@@ -626,6 +626,16 @@
             if (name === "radar_charts") return new Inspector(document.querySelector("#observablehq-radar_charts-d5041bfa"));
         });
         </script>
+        
+        <!-- scatter + map -->
+        <script type="module">
+        import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@5/dist/runtime.js";
+        import define from "https://api.observablehq.com/d/21d815b09912c894.js?v=3";
+        new Runtime().module(define, name => {
+            if (name === "allCharts") return new Inspector(document.querySelector("#observablehq-allCharts-cc5d1ee1"));
+        });
+        </script>
+
 
     </body>
 
